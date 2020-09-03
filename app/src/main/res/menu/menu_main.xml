@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.diegoreyesmo.android.colpas.com.diegoreyesmo.android.quienmepago.MainActivity">
+    <!--<item-->
+        <!--android:id="@+id/ayuda"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/menu_ayuda"-->
+        <!--app:showAsAction="never" />-->
+</menu>

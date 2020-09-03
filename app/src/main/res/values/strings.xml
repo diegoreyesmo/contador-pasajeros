@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ColPas</string>
+    <string name="title_activity_bloqueo">ColPas No Activado</string>
+    <string name="key_preferencia_fecha_activacion">key_preferencia_fecha_activacion</string>
+    <string name="key_preferencia_fecha_vencimiento">key_preferencia_fecha_vencimiento</string>
+    <string name="urlConsultaIMEI">http://colpas.cl/api/device/create</string>
+    <string name="urlTelegramLogger">https://api.telegram.org/bot806115747:AAGi9uVXrbBGtUfV9t-gMkgiQutEVFjqMdA/sendMessage</string>
+    <string name="mensaje_bloqueo">Periodo de prueba finalizado.\nSolicite la activación de la aplicación al correo activacion.colpas@gmail.com\nValor suscripción trimestral: $1000. (Chile)</string>
+    <string name="mensaje_alerta_sin_permisos_imei">La aplicación necesita consultar IMEI del teléfono para ser activada, pero los permisos fueron denegados por el usuario.</string>
+    <string name="mensaje_alerta_sin_permisos_internet">La aplicación necesita acceder a internet para ser activada, pero los permisos fueron denegados por el usuario.</string>
+    <string name="mensaje_aceptar">Aceptar</string>
+    <string name="mensaje_cerrar">Cerrar</string>
+    <string name="mensaje_contador_reset">Está seguro que desea reiniciar el contador de pasajeros?</string>
+    <string name="mensaje_reiniciar">Reiniciar</string>
+    <string name="mensaje_cancelar">Cancelar</string>
+</resources>
+

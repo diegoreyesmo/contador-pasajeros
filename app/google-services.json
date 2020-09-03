@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646401502036",
+    "firebase_url": "https://colpas.firebaseio.com",
+    "project_id": "colpas",
+    "storage_bucket": "colpas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646401502036:android:12281767fd0e495f",
+        "android_client_info": {
+          "package_name": "com.diegoreyesmo.android.colpas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646401502036-vjdtnqn3f4hguae414bmvdskpvgsl2pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diegoreyesmo.android.colpas",
+            "certificate_hash": "7f623106adb2352eee5facd088a366cc3da0c2c4"
+          }
+        },
+        {
+          "client_id": "646401502036-efcmo966dh2stn5765d5529g82i9gvbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVRNOu9vVCQpGQ7h3lNjvdfS4JfAyvJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646401502036-efcmo966dh2stn5765d5529g82i9gvbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
