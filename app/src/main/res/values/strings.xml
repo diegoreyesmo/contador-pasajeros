@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ColPas</string>
+    <string name="app_name">Contador Pasajeros</string>
     <string name="title_activity_bloqueo">ColPas No Activado</string>
     <string name="key_preferencia_fecha_activacion">key_preferencia_fecha_activacion</string>
     <string name="key_preferencia_fecha_vencimiento">key_preferencia_fecha_vencimiento</string>
